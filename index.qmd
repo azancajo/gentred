@@ -1,5 +1,5 @@
 ---
-title: "**School desegregation policies in the city of Barcelona**"
+title: "**Effects of gentrification on educational inequalities**"
 title-block-banner: false
 toc: false
 about:
@@ -9,14 +9,6 @@ format:
   html:
     css: index-styles.css
 ---
-
-```{=html}
-<script type="text/javascript">
-    if (window.location.hostname === "desegpol.com") {
-        window.location.href = "https://www.desegpol.com" + window.location.pathname;
-    }
-</script>
-```
 
 ![](images/Desegpol_logo_transparent%202.png){fig-align="center"}
 

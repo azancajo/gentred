@@ -6,6 +6,7 @@ toc: false
 
 # Conferences and seminars
 
+```{=html}
 <style>
 .grid-container {
   display: grid;
@@ -43,6 +44,7 @@ toc: false
   color: #666;
 }
 </style>
+```
 
 :::::: grid-container
 ::: card

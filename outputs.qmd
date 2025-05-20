@@ -22,6 +22,7 @@ The next documents present the preliminary findings of the research project. The
 <h5>[**Realist evaluation of the Barcelona’s Shock Plan**](files/Strand2_CMO.pdf)</h5>
 :::
 
+```{=html}
 <style>
 .grid-container {
     display: grid;
@@ -65,4 +66,5 @@ p a {
     text-align: center;
 }
 </style>
+```
 :::::
