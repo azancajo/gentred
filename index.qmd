@@ -1,0 +1,35 @@
+---
+title: "**School desegregation policies in the city of Barcelona**"
+title-block-banner: false
+toc: false
+about:
+  template: jolla
+body-attrs: "class=index-page" # Adds a class called "index-page" to the body
+format:
+  html:
+    css: index-styles.css
+---
+
+```{=html}
+<script type="text/javascript">
+    if (window.location.hostname === "desegpol.com") {
+        window.location.href = "https://www.desegpol.com" + window.location.pathname;
+    }
+</script>
+```
+
+![](images/Desegpol_logo_transparent%202.png){fig-align="center"}
+
+::: {style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;"}
+<img src="images/geps-logo.png" style="margin-right: 5px;"/> <img src="images/logotip-versio-5-verd-1401x564.png" width="400" height="163" style="margin-right: 5px;"/>
+:::
+
+**Research project funded by**
+
+::: {style="display: flex; justify-content: center; align-items: center;"}
+<img src="images/Llimes-signes.png" style="margin-top: 10px;"/>
+:::
+
+```{=html}
+<script defer src="https://cdn.overtracking.com/t/tJ4dxONKAlXCjw0k8/"></script>
+```

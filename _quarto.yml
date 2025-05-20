@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Desegpol"
+  cookie-consent: false
+  navbar:
+    title: false
+    logo: images/Desegpol_logo_transparent.png
+    logo-alt: "Desegpol"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Team
+      - href: outputs.qmd
+        text: Outputs
+  page-footer:
+    background: "#419E9C"
+    center: '<div class="custom-footer-container">Desegpol | School desegregation policies in the city of Barcelona</div>'
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+redirects:
+  from: "http://desegpol.com"
+  to: "https://www.desegpol.com"
