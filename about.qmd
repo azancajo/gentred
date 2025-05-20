@@ -30,7 +30,7 @@ The project has four main objectives:
 
 **4.** To identify the logics of action of teaching staff and school responses in the most "gentrified" schools.
 
-# Methodology
+## Methodology
 
 This is an interdisciplinary proposal, both analytically and methodologically, combining fields such as urban studies, sociology of education, and geography. The research uses a wide range of quantitative and qualitative techniques of various social science disciplines.
 
