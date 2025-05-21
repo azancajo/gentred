@@ -59,7 +59,6 @@ Research team
 <p><a href="https://www.researchgate.net/profile/Marti-Manzano" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a> <a href="https://scholar.google.com.my/citations?user=jDBdZS0AAAAJ&hl=en" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
 :::
 
-
 ::: team-member
 <img src="team_photos/MP.jpg" alt="Marcel Pagès" width="150" height="150"/>
 

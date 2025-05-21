@@ -17,7 +17,7 @@
 
 /* Optionally, change the text color in the navbar */
 .navbar a {
-  color: #3E8B77;
+  color: #4B9B8A;
 }
 
 /* Make navbar links bold */
@@ -93,45 +93,45 @@ img.fade-in {
 
 /* Change link color on hover */
 a:hover {
-  color: #3E8B77; /* Change to your desired color when hovering */
+  color: #4B9B8A; /* Change to your desired color when hovering */
 }
 
 /* Change link color when clicked (active state) */
 a:active {
-  color: #3E8B77; /* Change to your desired color when clicking */
+  color: #4B9B8A; /* Change to your desired color when clicking */
 }
 
 
 /* Change navbar link color on hover */
 .navbar-nav .nav-link:hover {
-  color: #3E8B77; /* Change this to the hover color you want */
+  color: #4B9B8A; /* Change this to the hover color you want */
 }
 
 /* Change navbar link color when clicked (active state) */
 .navbar-nav .nav-link:active {
-  color: #3E8B77; /* Change this to the active color you want */
+  color: #4B9B8A; /* Change this to the active color you want */
 }
 
 /* Change navbar link color after it has been clicked (visited state) */
 .navbar-nav .nav-link:visited {
-  color: #3E8B77; /* Change this to the visited color you want */
+  color: #4B9B8A; /* Change this to the visited color you want */
 }
 
 /* Regular links (default) */
 a {
-  color: #3E8B77; /* Default color for links */
+  color: #4B9B8A; /* Default color for links */
   text-decoration: none; /* Remove underline */
 }
 
 /* Navbar links (default) */
 .navbar-nav .nav-link {
-  color: #3E8B77; /* Default color for navbar links */
+  color: #4B9B8A; /* Default color for navbar links */
 }
 
 /* Highlight navbar links with a line below when hovered or focused */
 .navbar-nav .nav-link:hover, .navbar-nav .nav-link:focus {
-  color:  #3E8B77 /* Change color for navbar links when hovered or focused */
-  border-bottom: 2px solid #3E8B77; /* Add a line below the link */
+  color:  #4B9B8A /* Change color for navbar links when hovered or focused */
+  border-bottom: 2px solid #4B9B8A; /* Add a line below the link */
   background-color: transparent; /* Ensure no background color is applied */
 }
 
@@ -166,19 +166,19 @@ body {
 }
 
 .navbar-nav .nav-link.active {
-  color: #3E8B77; /* Replace this hex code with your desired color */
+  color: #4B9B8A; /* Replace this hex code with your desired color */
 }
 
 h1 {
-  color: #3E8B77;
+  color: #4B9B8A;
 }
 
 h2 {
-  color: #3E8B77;
+  color: #4B9B8A;
 }
 
 h5 {
-  color: #3E8B77;
+  color: #4B9B8A;
 }
 
 .page-footer {

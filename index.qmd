@@ -10,7 +10,7 @@ format:
     css: index-styles.css
 ---
 
-![](images/gentred%20logo.jpg){fig-align="center"}
+![](images/Logo_bicolor.svg){fig-align="center"}
 
 ::: {style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;"}
 <img src="images/geps-logo.png" style="margin-right: 5px;"/> <img src="images/logotip-versio-5-verd-1401x564.png" width="400" height="163" style="margin-right: 5px;"/>
