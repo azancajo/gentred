@@ -7,7 +7,7 @@ website:
   cookie-consent: false
   navbar:
     title: false
-    logo: images/Desegpol_logo_transparent.png
+    logo: images/LOGO_GENTRED.png
     logo-alt: "Gentred"
     left:
       - href: index.qmd

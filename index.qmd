@@ -10,7 +10,7 @@ format:
     css: index-styles.css
 ---
 
-![](images/Desegpol_logo_transparent%202.png){fig-align="center"}
+![](images/gentred%20logo.jpg){fig-align="center"}
 
 ::: {style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;"}
 <img src="images/geps-logo.png" style="margin-right: 5px;"/> <img src="images/logotip-versio-5-verd-1401x564.png" width="400" height="163" style="margin-right: 5px;"/>
@@ -19,7 +19,7 @@ format:
 **Research project funded by**
 
 ::: {style="display: flex; justify-content: center; align-items: center;"}
-<img src="images/Llimes-signes.png" style="margin-top: 10px;"/>
+<img src="images/logo_fund.png" style="margin-top: 10px;"/>
 :::
 
 ```{=html}
