@@ -17,7 +17,7 @@
 
 /* Optionally, change the text color in the navbar */
 .navbar a {
-  color: #419E9C; /* White text */
+  color: #4B9B8A; /* White text */
 }
 
 /* Make navbar links bold */
@@ -101,15 +101,15 @@ body h1, body h2, body h3, body h4, body p, body span, body div {
 
 /* Regular links (default) */
 a {
-  color: #419E9C; /* Default color for links */
+  color: #4B9B8A; /* Default color for links */
   text-decoration: none; /* Remove underline */
 }
 
 /* Navbar links (default) */
 .navbar-nav .nav-link {
-  color: #419E9C; /* Default color for navbar links */
+  color: #4B9B8A; /* Default color for navbar links */
 }
 
 .navbar-nav .nav-link.active {
-  color: #419E9C; /* Replace this hex code with your desired color */
+  color: #4B9B8A; /* Replace this hex code with your desired color */
 }
