@@ -12,7 +12,7 @@
 
 /* Change the background color of the navbar */
 .navbar {
-  background-color:  #ffffff; /* Light blue */
+  background-color:  #ffffff;
 }
 
 /* Optionally, change the text color in the navbar */
@@ -111,5 +111,5 @@ a {
 }
 
 .navbar-nav .nav-link.active {
-  color: #4B9B8A; /* Replace this hex code with your desired color */
+  color: #E17A3C; /* Replace this hex code with your desired color */
 }
