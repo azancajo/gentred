@@ -16,8 +16,6 @@ website:
         text: About
       - href: team.qmd
         text: Team
-      - href: outputs.qmd
-        text: Outputs
   page-footer:
     background: "#3E8B77"
     center: '<div class="custom-footer-container">Gentred | Effects of gentrification on educational inequalities</div>'
