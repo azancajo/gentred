@@ -25,7 +25,7 @@
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Research team\n\n\n\n\nAdrián Zancajo (PI)\n\n          \n\n\n\n\nBerta Llos\n\n          \n\n\n\n\n\nSheila González\n\n          \n\n\n\n\nAndrea Jover\n\n      \n\n\n\n\nMartí Manzano\n\n     \n\n\n\n\nMarcel Pagès\n\n         \n\n\n\n\nLluís Parcerisa\n\n          \n\n\n\n\nEdgar Quilabert\n\n          \n\n\n\n\nAndreu Termes"
+    "text": "Research team\n\n\n\n\nXavier Bonal (PI)\n\n          \n\n\n\n\nAdrián Zancajo (Co-PI)\n\n          \n\n\n\n\n\n\n\n\n\n\nCarlos Bueno\n\n          \n\n\n\n\nGerard Ferrer\n\n          \n\n\n\n\nNur García\n\n          \n\n\n\n\nSheila González\n\n          \n\n\n\n\nAntonina Levantino\n\n        \n\n\n\n\nPablo Neut\n\n        \n\n\n\n\nMarcel Pagès\n\n         \n\n\n\n\nAndreu Termes"
   },
   {
     "objectID": "updated_about.html",
@@ -110,5 +110,19 @@
     "title": "About the project",
     "section": "Methodology",
     "text": "Methodology\nThis is an interdisciplinary proposal, both analytically and methodologically, combining fields such as urban studies, sociology of education, and geography. The research uses a wide range of quantitative and qualitative techniques of various social science disciplines.\nThe study uses different territorial units of analysis—from the city as a whole to educational catchment areas and neighbourhoods. The quantitative phase includes the following methods and techniques:\n\nStatistical analysis of student registers and school pre-registration databases provided by the Consorci d’Educació de Barcelona (CEB) -the Local Education Authority-, enabling comparison of sociodemographic and educational characteristics of both school supply and demand.\nSocio-spatial analysis techniques using GIS (Geographic Information Systems) to estimate retention and exit levels of different student profiles in various neighbourhoods, as well as changes in the geographic attraction capacity of school offerings.\nQuasi-experimental evaluation methods, which help estimate changes in impact dimensions caused by gentrification.\n\nIn the qualitative phase, GENTRED adopts an “embedded single case study” strategy—that is, the study of a single case through multiple units of analysis: families and school actors in neighbourhoods with divergent gentrification processes. This approach is combined with “critical case sampling” to help capture the underlying mechanisms of the phenomenon. The qualitative instruments include:\n\nDocument analysis: thematic analysis of school projects and internal documents, as well as content analysis of websites, promotion strategies, and open school days sessions.\nInterviews: semi-structured interviews with headteachers, teachers, and families at selected schools.\nParticipant observation during open days events, meetings between teachers and families, and other school life spaces."
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Gentred",
+    "section": "",
+    "text": "Andrea Jover\n\n      \n\n\n\n\nAntonina Levantino\n\n        \n\n\n\n\nBerta Llos\n\n          \n\n\n\n\nMartí Manzano\n\n     \n\n\n\n\nMarcel Pagès\n\n         \n\n\n\n\nLluís Parcerisa\n\n          \n\n\n\n\nEdgar Quilabert\n\n          \n\n\n\n\nAndreu Termes"
+  },
+  {
+    "objectID": "test.html#research-team",
+    "href": "test.html#research-team",
+    "title": "Team",
+    "section": "",
+    "text": "::: {.grid grid-cols-2 gap-4 mb-6}\n\n\n\nAdrián Zancajo (PI)\n\n\n&lt;a href=\"https://uab.academia.edu/AdrianZancajo\" target=\"_blank\"&gt;Academia&lt;/a&gt; |\n&lt;a href=\"https://www.researchgate.net/profile/AdrianZancajo\" target=\"_blank\"&gt;ResearchGate&lt;/a&gt; |\n&lt;a href=\"https://scholar.google.nl/citations?hl=en&user=mJmENSwAAAAJ\" target=\"_blank\"&gt;Scholar&lt;/a&gt;\n\n\n\n\n\nSheila González\n\n\n&lt;a href=\"https://example.com\" target=\"_blank\"&gt;Profile&lt;/a&gt;\n\n\n:::\n\n::: {.grid grid-cols-3 gap-4}\n\n\n\nMember 1\n\n\n&lt;a href=\"https://example.com\" target=\"_blank\"&gt;Profile&lt;/a&gt;\n\n\n\n:::"
   }
 ]
