@@ -5,9 +5,10 @@ project:
 website:
   title: "Gentred"
   cookie-consent: false
+  favicon: "images/LOGO_GENTRED.png"
   navbar:
     title: false
-    logo: images/LOGO_GENTRED.png
+    logo: "images/LOGO_GENTRED.png"
     logo-alt: "Gentred"
     left:
       - href: index.qmd
