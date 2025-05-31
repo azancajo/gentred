@@ -75,15 +75,15 @@ p a {
 ::: {style="height: 50px;"}
 :::
 
-::::::::::: grid-container-2
-::: team-member
+::::::::::::: grid-container-2
+:::: team-member
 <img src="team_photos/CB.jpeg" alt="Carlos Bueno" width="150" height="150"/>
 
 [**Carlos Bueno**]{style="font-size: 22px;"}
 
-<div style="height: 50px;"></div>
-
+::: {style="height: 35px;"}
 :::
+::::
 
 ::: team-member
 <img src="team_photos/GF.webp" alt="Gerard Ferrer" width="150" height="150"/>
@@ -93,13 +93,14 @@ p a {
 <p><a href="https://www.researchgate.net/profile/Gerard-Ferrer-Esteban" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com/citations?user=RCn34NAAAAAJ&hl=en" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
 :::
 
-::: team-member
-<img src="team_photos/NG.jpg" alt="Nur García" width="150" height="150"/>
+:::: team-member
+<img src="team_photos/NG.jpg" alt="Nur Garcia-Borés" width="150" height="150"/>
 
-[**Nur García**]{style="font-size: 22px;"}
+[**Nur Garcia-Borés**]{style="font-size: 22px;"}
 
-<div style="height: 50px;"></div>
+::: {style="height: 35px;"}
 :::
+::::
 
 ::: team-member
 <img src="team_photos/SG.jpg" alt="Sheila González" width="150" height="150"/>
@@ -184,4 +185,4 @@ p a {
 }
 </style>
 ```
-:::::::::::
+:::::::::::::
