@@ -5,6 +5,7 @@ format:
     toc: true
     toc-depth: 2
     css: styles.css
+    anchor-sections: false
 ---
 
 ::: {style="text-align: center; margin: 0 auto;"}
@@ -94,6 +95,12 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 -   *School choice and spatial inequalities: A survey experiment on parental preferences for primary schools across neighborhoods*\
     **Håkan Forsberg & Andreas Alm Fjellborg**
 
+### 16:00 Coffee break
+
+### 16:30 Session 4. Actors’ responses to urban and demographic transformations
+
+**Chair:** Sheila González
+
 -   *Participation of immigrants in new arrival neighbourhoods: Schools as places of encounter?*\
     **Isabel Ramos Lobato**
 
@@ -102,12 +109,6 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 -   *Emotional experiences and stigma among beneficiaries of Barcelona’s desegregation policies*\
     **Andrea Jover, Martí Manzano, Berta Llos & Andreu Termes**
-
-### 16:00 Coffee break
-
-### 16:30 Session 4. Actors’ responses to urban and demographic transformations
-
-**Chair:** Sheila González
 
 ### 20:00 Social dinner — *Restaurant Pomarada*
 
@@ -145,6 +146,8 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 Faculty of Law (University of Barcelona) Avinguda Diagonal 684, 08034 Barcelona
 
+![](seminar/venue.png)
+
 ### Seminar rooms
 
 10th June: Aula Font i Rius is located on the first floor of the main building (old building) of the Faculty of Law
@@ -153,39 +156,36 @@ Faculty of Law (University of Barcelona) Avinguda Diagonal 684, 08034 Barcelona
 
 ## List of participants
 
-| Name                    | Institution                           |
-|-------------------------|----------------------------------------|
-| Ismael Blanco           | IGOP-UAB                               |
-| Xavier Bonal            | GEPS-UAB                               |
-| Alejandro Carrasco      | Universidad Católica de Chile          |
-| Marta Cordini           | Politecnico di Milano                  |
-| Sheila González Motos   | Universitat de Barcelona               |
-| Ellen Greaves           | University of Exeter                   |
-| Rob J. Gruijters        | University of Bristol                  |
-| Francisco Ferraioli     | Politecnico di Milano                  |
-| Andreas Alm Fjellborg   | Uppsala University                     |
-| Håkan Forsberg          | Uppsala University                     |
-| Nur Garcia-Borés        | GEPS-UAB                               |
-| Andrea Jover            | GEPS-UAB                               |
-| Sonja Kosunen           | University of Eastern Finland          |
-| Antonio López-Gay       | CED-UAB                                |
-| Berta Llos              | GEPS-UAB                               |
-| Martí Manzano           | GEPS-UAB                               |
-| Giulia Morroccoli       | Politecnico di Milano                  |
-| Pablo Neut              | GEPS-UAB                               |
-| Marco Oberti            | Science Po                             |
-| Marcel Pagès            | Universitat de Barcelona               |
-| Edgar Quilabert         | GEPS-UAB                               |
-| Quentin Ramond          | COES-Universidad de Chile              |
-| Isabel Ramos Lobato     | ILS-Dortmund                           |
-| Costanzo Ranci          | Politecnico di Milano                  |
-| Berenice Scandone       | Politecnico di Milano                  |
-| Daniel Sorando          | Universidad de Zaragoza                |
-| Eduardo Tapia           | Institute of Analytical Sociology      |
-| Andreu Termes           | GEPS-UAB                               |
-| Adrián Zancajo          | GEPS-UAB                               |
+| Name                  | Institution                       |
+|-----------------------|-----------------------------------|
+| Ismael Blanco         | IGOP-UAB                          |
+| Xavier Bonal          | GEPS-UAB                          |
+| Alejandro Carrasco    | Universidad Católica de Chile     |
+| Marta Cordini         | Politecnico di Milano             |
+| Sheila González Motos | Universitat de Barcelona          |
+| Ellen Greaves         | University of Exeter              |
+| Rob J. Gruijters      | University of Bristol             |
+| Francisco Ferraioli   | Politecnico di Milano             |
+| Andreas Alm Fjellborg | Uppsala University                |
+| Håkan Forsberg        | Uppsala University                |
+| Nur Garcia-Borés      | GEPS-UAB                          |
+| Andrea Jover          | GEPS-UAB                          |
+| Sonja Kosunen         | University of Eastern Finland     |
+| Antonio López-Gay     | CED-UAB                           |
+| Berta Llos            | GEPS-UAB                          |
+| Martí Manzano         | GEPS-UAB                          |
+| Giulia Morroccoli     | Politecnico di Milano             |
+| Pablo Neut            | GEPS-UAB                          |
+| Marco Oberti          | Science Po                        |
+| Marcel Pagès          | Universitat de Barcelona          |
+| Edgar Quilabert       | GEPS-UAB                          |
+| Quentin Ramond        | COES-Universidad de Chile         |
+| Isabel Ramos Lobato   | ILS-Dortmund                      |
+| Costanzo Ranci        | Politecnico di Milano             |
+| Berenice Scandone     | Politecnico di Milano             |
+| Daniel Sorando        | Universidad de Zaragoza           |
+| Eduardo Tapia         | Institute of Analytical Sociology |
+| Andreu Termes         | GEPS-UAB                          |
+| Adrián Zancajo        | GEPS-UAB                          |
 
-This seminar is organized by the Interdisciplinary Group on Education Policies (GIPE),
-with support from the Government of Catalonia (SGR-Cat 2021, Ref. 00943), and is part
-of the project The Effects of Gentrification on Educational Inequalities (GENTRED), funded
-by the Spanish Ministry of Science and Technology (PID2022-137183NB-I00).
+This seminar is organized by the Interdisciplinary Group on Education Policies (GIPE), with support from the Government of Catalonia (SGR-Cat 2021, Ref. 00943), and is part of the project The Effects of Gentrification on Educational Inequalities (GENTRED), funded by the Spanish Ministry of Science and Technology (PID2022-137183NB-I00).
