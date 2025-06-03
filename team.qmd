@@ -1,6 +1,8 @@
 ---
 title: "Team"
-format: html
+format: 
+  html:
+    css: styles.css
 toc: FALSE
 ---
 
