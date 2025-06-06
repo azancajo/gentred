@@ -180,7 +180,7 @@ Faculty of Law (University of Barcelona) Avinguda Diagonal 684, 08034 Barcelona
 | Marco Oberti          | Science Po                        |
 | Marcel Pagès          | Universitat de Barcelona          |
 | Edgar Quilabert       | GEPS-UAB                          |
-| Quentin Ramond        | COES-Universidad de Chile         |
+| Quentin Ramond        | Mayor University, Chile           |
 | Isabel Ramos Lobato   | ILS-Dortmund                      |
 | Costanzo Ranci        | Politecnico di Milano             |
 | Berenice Scandone     | Politecnico di Milano             |
