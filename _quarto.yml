@@ -5,7 +5,7 @@ project:
 website:
   title: "Gentred"
   cookie-consent: false
-  favicon: "images/LOGO_GENTRED.png"
+  favicon: "images/favicon.jpg"
   navbar:
     title: false
     logo: "images/LOGO_GENTRED.png"
