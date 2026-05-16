@@ -31,15 +31,15 @@ In recent years, these trends have accelerated due to significant demographic sh
 
 The interplay between urban transformations and education policies is central to shaping socio- spatial inequalities in education. Spatial restructuring influences school hierarchies, reshapes local education markets, and reinforces links between residential and school segregation. These dynamics intersect with policies on school admissions, the diversification of educational supply, and the redefinition of catchment areas, often producing uncertain effects on socio-spatial inequalities. The complex interactions between housing markets, education policies, and family strategies generate emerging forms of educational inequality that remain insufficiently explored. This seminar brings together researchers from diverse urban contexts and disciplines to examine how urban change, spatial inequalities, and education policies intersect to shape education inequalities. Key themes include:
 
--   The impact of urban transformations, migration, and demographic shifts on school segregation.
+- The impact of urban transformations, migration, and demographic shifts on school segregation.
 
--   The role of school choice policies, school admission regulations and processes, and parental strategies in shaping educational inequalities.
+- The role of school choice policies, school admission regulations and processes, and parental strategies in shaping educational inequalities.
 
--   Patterns of school choice and student mobility in urban settings.
+- Patterns of school choice and student mobility in urban settings.
 
--   Intersections between housing policies, urban renewal, and educational access.
+- Intersections between housing policies, urban renewal, and educational access.
 
--   The effects of gentrification on school composition and educational outcomes. Policy responses and interventions to reduce school segregation and promote equity.
+- The effects of gentrification on school composition and educational outcomes. Policy responses and interventions to reduce school segregation and promote equity.
 
 ::: {style="text-align: center; margin: 0 auto;"}
 **Coordinated by**
@@ -57,14 +57,14 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 **Chair:** Xavier Bonal
 
--   *Neighbourhood change and population shifts in southern European cities: Key processes and trends*\
-    **Antonio López Gay**
+- *Neighbourhood change and population shifts in southern European cities: Key processes and trends*\
+  **Antonio López Gay**
 
--   *The mutations of residential segregation: Beyond gentrification*\
-    **Daniel Sorando**
+- *The mutations of residential segregation: Beyond gentrification*\
+  **Daniel Sorando**
 
--   *Residential specialisation and inequality across municipalities: Trends in the Barcelona metropolitan region*\
-    **Ismael Blanco**
+- *Residential specialisation and inequality across municipalities: Trends in the Barcelona metropolitan region*\
+  **Ismael Blanco**
 
 ### 11:00 Coffee break
 
@@ -72,14 +72,14 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 **Chair:** Isabel Ramos Lobato
 
--   *Intersectional segregation: Conceptualization and application to the case of schooling in Brazil*\
-    **Rob J. Gruijters**
+- *Intersectional segregation: Conceptualization and application to the case of schooling in Brazil*\
+  **Rob J. Gruijters**
 
--   *Educational transitions in place: How local school composition affects educational careers*\
-    **Costanzo Ranci & Francisco Gabriel Ferraioli**
+- *Educational transitions in place: How local school composition affects educational careers*\
+  **Costanzo Ranci & Francisco Gabriel Ferraioli**
 
--   *Shaping school and class segregation: The role of institutional and everyday school practices*\
-    **Marta Cordini, Carlotta Casiagli, Giulia Marroccoli & Berenice Scandone**
+- *Shaping school and class segregation: The role of institutional and everyday school practices*\
+  **Marta Cordini, Carlotta Casiagli, Giulia Marroccoli & Berenice Scandone**
 
 ### 13:00 Lunch
 
@@ -87,14 +87,14 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 **Chair:** Quentin Ramond
 
--   *School choice and access to effective schools*\
-    **Ellen Greaves**
+- *School choice and access to effective schools*\
+  **Ellen Greaves**
 
--   *Do gentrifyers fly from local schools? A case study of Barcelona*\
-    **Xavier Bonal & Sheila González**
+- *Do gentrifyers fly from local schools? A case study of Barcelona*\
+  **Xavier Bonal & Sheila González**
 
--   *School choice and spatial inequalities: A survey experiment on parental preferences for primary schools across neighborhoods*\
-    **Håkan Forsberg & Andreas Alm Fjellborg**
+- *School choice and spatial inequalities: A survey experiment on parental preferences for primary schools across neighborhoods*\
+  **Håkan Forsberg & Andreas Alm Fjellborg**
 
 ### 16:00 Coffee break
 
@@ -102,14 +102,14 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 **Chair:** Sheila González
 
--   *Participation of immigrants in new arrival neighbourhoods: Schools as places of encounter?*\
-    **Isabel Ramos Lobato**
+- *Participation of immigrants in new arrival neighbourhoods: Schools as places of encounter?*\
+  **Isabel Ramos Lobato**
 
--   *Teacher segregation in the frame of labour-market provision, school segregation and residential segregation*\
-    **Sonja Kosunen**
+- *Teacher segregation in the frame of labour-market provision, school segregation and residential segregation*\
+  **Sonja Kosunen**
 
--   *Emotional experiences and stigma among beneficiaries of Barcelona’s desegregation policies*\
-    **Andrea Jover, Martí Manzano, Berta Llos & Andreu Termes**
+- *Emotional experiences and stigma among beneficiaries of Barcelona’s desegregation policies*\
+  **Andrea Jover, Martí Manzano, Berta Llos & Andreu Termes**
 
 ### 20:00 Social dinner — *Restaurant Pomarada*
 
@@ -119,14 +119,14 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 **Chair:** Adrián Zancajo
 
--   *The role of schools' surrounding neighbourhoods in school choice and school segregation*\
-    **Quentin Ramond**
+- *The role of schools' surrounding neighbourhoods in school choice and school segregation*\
+  **Quentin Ramond**
 
--   *Neighbourhood reputation, school choice, and school segregation*\
-    **Eduardo Tapia**
+- *Neighbourhood reputation, school choice, and school segregation*\
+  **Eduardo Tapia**
 
--   *Gentrification and school change: Exploring the dilemmas of diversity in the local educational space*\
-    **Marcel Pagès, Pablo Neut & Nur Garcia-Borés**
+- *Gentrification and school change: Exploring the dilemmas of diversity in the local educational space*\
+  **Marcel Pagès, Pablo Neut & Nur Garcia-Borés**
 
 ### 11:00 Coffee break
 
@@ -134,14 +134,14 @@ Xavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)
 
 **Chair:** Marta Cordini
 
--   *Does school zoning (school catchment areas) help to reduce school segregation? Lessons from France*\
-    **Marco Oberti & Lise Lécuyer**
+- *Does school zoning (school catchment areas) help to reduce school segregation? Lessons from France*\
+  **Marco Oberti & Lise Lécuyer**
 
--   *Impacts and effects of desegregation policies in Barcelona*\
-    **Adrián Zancajo, Sheila González & Edgar Quilabert**
+- *Impacts and effects of desegregation policies in Barcelona*\
+  **Adrián Zancajo, Sheila González & Edgar Quilabert**
 
--   *When regulating school selectivity is not enough: Limits of the Chilean centralized school admission system in reducing inequality*\
-    **Alejandro Carrasco**
+- *When regulating school selectivity is not enough: Limits of the Chilean centralized school admission system in reducing inequality*\
+  **Alejandro Carrasco**
 
 ## Venue
 
