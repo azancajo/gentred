@@ -1,70 +1,105 @@
 ---
-title: "outputs"
-format: html
-css: styles.css
+title: "Outputs"
+format:
+  html:
+    css: styles.css
 toc: false
 ---
 
-# Preliminary findings
+# Publications
 
-The next documents present the preliminary findings of the research project. These are based on the presentations we have made at different academic conferences, seminars and workshops.
-
-::::: grid-container
-::: team-member
-<img src="images/Strand1_Impact.png" width="400" height="300"/>
-
-<h5>[**Impact evaluation of the Barcelona’s Shock Plan**](files/Strand1_Impact.pdf)</h5>
+:::::: outputs-grid
+::::: output-card
+::: output-cover-frame
+<img src="images/Foto_Paper_68.webp" class="output-cover"/>
 :::
 
-::: team-member
-<img src="images/Strand2_CMO.png" width="400" height="300"/>
+::: output-copy
+### Una aproximació a la gentrificació escolar a Barcelona: mecanismes i implicacions per la política pública
 
-<h5>[**Realist evaluation of the Barcelona’s Shock Plan**](files/Strand2_CMO.pdf)</h5>
+A partir del cas de Barcelona, l’article analitza com processos com les migracions transnacionals i la turistificació influeixen en la gentrificació escolar. L’estudi identifica set mecanismes que expliquen aquest procés, vinculats a les estratègies escolars, els discursos pro-diversitat, l’homofília social i la reconfiguració identitària dels gentrificadors. Finalment, proposa recomanacions de política urbana i educativa per reduir els efectes negatius de la gentrificació escolar.
+
+[Download the document](files/Revista_Papers_68_online_ART_5.pdf){.output-button target="_blank"}
 :::
+:::::
+::::::
 
 ```{=html}
 <style>
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px; /* Adjust gap for spacing between items */
-    justify-items: center;
-    align-items: center;
-    width: 100%;
+.outputs-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
 }
 
-.team-member {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 100%;
+.output-card {
+  display: grid;
+  grid-template-columns: minmax(140px, 220px) 1fr;
+  gap: 1.75rem;
+  align-items: start;
+  min-width: 0;
 }
 
-.team-member img {
-    border-radius: 0%;
-    border: 1px solid #419E9C; /* Replace #your-color-here with the desired color */
-    padding: 0px; /* Optional: space between image and border */
+.output-cover-frame {
+  aspect-ratio: 5 / 7;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #4B9B8A;
+  background: rgba(75, 155, 138, 0.08);
+  box-shadow: 0 10px 28px rgba(18, 52, 86, 0.14);
 }
 
-.team-member h3 {
-    margin: 10px 0 5px 0; /* Adds some space between the image and name */
-    text-align: center;
+.output-cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
-.team-member p {
-    margin: 0;
-    padding: 5px 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.output-copy {
+  padding-top: 0.25rem;
 }
 
-p a {
-    margin: 0 5px; /* Adds space between icons */
-    text-align: center;
+.output-copy h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: #4B9B8A;
+  font-size: 1.1rem;
+  line-height: 1.25;
+}
+
+.output-copy p {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.output-button {
+  display: inline-block;
+  padding: 0.5rem 0.8rem;
+  border: 2px solid #4B9B8A;
+  color: #4B9B8A;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.output-button:hover,
+.output-button:focus {
+  background: #4B9B8A;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .output-card {
+    grid-template-columns: 1fr;
+    max-width: 360px;
+    margin: 0 auto;
+    gap: 1rem;
+  }
 }
 </style>
 ```
-:::::
