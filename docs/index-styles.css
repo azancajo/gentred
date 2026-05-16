@@ -70,33 +70,48 @@ a:active {
   to   { opacity: 1; }
 }
 
-@keyframes slideInFromBottom {
-  from {
-    transform: translateY(100%);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
 img.fade-in {
-  animation: fadeIn 3s ease-in-out;
+  animation: fadeIn 800ms ease-out both;
 }
 
 .logo-animated {
-  animation: fadeIn 3s ease-in-out;
+  animation: homeFade 900ms ease-out both;
 }
 
+.home-partners,
+.home-funding,
+.index-page main > p {
+  animation: homeFade 700ms ease-out both;
+}
 
-body h1,
-body h2,
-body h3,
-body h4,
-body p,
-body span,
-body div {
-  animation: slideInFromBottom 2s ease-out;
-  opacity: 1;
+.home-partners {
+  animation-delay: 120ms;
+}
+
+.index-page main > p {
+  animation-delay: 200ms;
+}
+
+.home-funding {
+  animation-delay: 280ms;
+}
+
+@keyframes homeFade {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logo-animated,
+  .home-partners,
+  .home-funding,
+  .index-page main > p {
+    animation: none;
+  }
 }

@@ -1,5 +1,8 @@
 ---
 title: "Outputs"
+description: "Publications and research outputs from the GENTRED project."
+image: "images/Foto_Paper_68.webp"
+image-alt: "Cover image for GENTRED research output"
 format:
   html:
     css: styles.css

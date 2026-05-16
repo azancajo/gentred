@@ -2,10 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="International seminar on urban transformations, demographic change, and spatial education inequalities in global cities.">
 
 <title>International seminar – Gentred</title>
 <style>
@@ -33,13 +34,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/favicon.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6e10f8f841f1a82b0b320746b985174c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b69ec010d96e690bf99d1f26dfb5426f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-b69ec010d96e690bf99d1f26dfb5426f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b69ec010d96e690bf99d1f26dfb5426f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,6 +76,19 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="International seminar – Gentred">
+<meta property="og:description" content="International seminar on urban transformations, demographic change, and spatial education inequalities in global cities.">
+<meta property="og:image" content="https://gentred.com/seminar/city.png">
+<meta property="og:site_name" content="Gentred">
+<meta property="og:locale" content="en_US">
+<meta property="og:image:height" content="1114">
+<meta property="og:image:width" content="4135">
+<meta name="twitter:title" content="International seminar – Gentred">
+<meta name="twitter:description" content="International seminar on urban transformations, demographic change, and spatial education inequalities in global cities.">
+<meta name="twitter:image" content="https://gentred.com/seminar/city.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image-height" content="1114">
+<meta name="twitter:image-width" content="4135">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -80,7 +99,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/LOGO_GENTRED.png" alt="Gentred" class="navbar-logo">
+    <img src="./images/LOGO_GENTRED.png" alt="Gentred" class="navbar-logo light-content">
+    <img src="./images/LOGO_GENTRED.png" alt="Gentred" class="navbar-logo dark-content">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -100,6 +120,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./team.html"> 
 <span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./outputs.html"> 
+<span class="menu-text">Outputs</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./seminar.html" aria-current="page"> 
@@ -137,6 +161,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">International seminar</h1>
 </div>
 
+<div>
+  <div class="description">
+    International seminar on urban transformations, demographic change, and spatial education inequalities in global cities.
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -469,13 +498,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -490,7 +520,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/gentred\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

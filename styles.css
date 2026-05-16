@@ -73,6 +73,11 @@ h1.title {
   display: none;
 }
 
+/* Keep SEO descriptions in metadata, not visible title blocks */
+.quarto-title-block .description {
+  display: none;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5 {
   color: var(--primary-color);
@@ -90,11 +95,6 @@ h1, h2, h3, h4, h5 {
 
 img.fade-in {
   animation: fadeIn 3s ease-in-out;
-}
-
-.index-page img {
-  animation: slideInFromBottom 2s ease-out;
-  opacity: 1;
 }
 
 /* Special navbar spacing on index page */

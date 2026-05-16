@@ -1,5 +1,6 @@
 ---
 title: "About the project"
+description: "Project summary, objectives, and methodology for GENTRED, a study of urban gentrification and educational inequalities in Barcelona."
 format:
   html:
     toc: true
@@ -36,16 +37,16 @@ This is an interdisciplinary proposal, both analytically and methodologically, c
 
 The study uses different territorial units of analysis—from the city as a whole to educational catchment areas and neighbourhoods. The quantitative phase includes the following methods and techniques:
 
--   **Statistical analysis** of student registers and school pre-registration databases provided by the Consorci d’Educació de Barcelona (CEB) -the Local Education Authority-, enabling comparison of sociodemographic and educational characteristics of both school supply and demand.
+- **Statistical analysis** of student registers and school pre-registration databases provided by the Consorci d’Educació de Barcelona (CEB) -the Local Education Authority-, enabling comparison of sociodemographic and educational characteristics of both school supply and demand.
 
--   **Socio-spatial analysis techniques using GIS (Geographic Information Systems)** to estimate retention and exit levels of different student profiles in various neighbourhoods, as well as changes in the geographic attraction capacity of school offerings.
+- **Socio-spatial analysis techniques using GIS (Geographic Information Systems)** to estimate retention and exit levels of different student profiles in various neighbourhoods, as well as changes in the geographic attraction capacity of school offerings.
 
--   **Quasi-experimental evaluation methods**, which help estimate changes in impact dimensions caused by gentrification.
+- **Quasi-experimental evaluation methods**, which help estimate changes in impact dimensions caused by gentrification.
 
 In the qualitative phase, GENTRED adopts an “embedded single case study” strategy—that is, the study of a single case through multiple units of analysis: families and school actors in neighbourhoods with divergent gentrification processes. This approach is combined with “critical case sampling” to help capture the underlying mechanisms of the phenomenon. The qualitative instruments include:
 
--   **Document analysis**: thematic analysis of school projects and internal documents, as well as content analysis of websites, promotion strategies, and open school days sessions.
+- **Document analysis**: thematic analysis of school projects and internal documents, as well as content analysis of websites, promotion strategies, and open school days sessions.
 
--   **Interviews**: semi-structured interviews with headteachers, teachers, and families at selected schools.
+- **Interviews**: semi-structured interviews with headteachers, teachers, and families at selected schools.
 
--   **Participant observation** during open days events, meetings between teachers and families, and other school life spaces.
+- **Participant observation** during open days events, meetings between teachers and families, and other school life spaces.

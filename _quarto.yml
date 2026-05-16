@@ -4,6 +4,15 @@ project:
 
 website:
   title: "Gentred"
+  description: "Research project on the effects of gentrification on educational inequalities, with a focus on Barcelona."
+  site-url: "https://gentred.com"
+  image: "images/LOGO_GENTRED.png"
+  image-alt: "Gentred logo"
+  open-graph:
+    site-name: "Gentred"
+    locale: en_US
+  twitter-card:
+    card-style: summary_large_image
   cookie-consent: false
   favicon: "images/favicon.jpg"
   navbar:
@@ -17,6 +26,8 @@ website:
         text: About
       - href: team.qmd
         text: Team
+      - href: outputs.qmd
+        text: Outputs
       - href: seminar.qmd
         text: International seminar
   page-footer:

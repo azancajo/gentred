@@ -1,5 +1,6 @@
 ---
 title: "International seminar"
+description: "International seminar on urban transformations, demographic change, and spatial education inequalities in global cities."
 format:
   html:
     toc: true

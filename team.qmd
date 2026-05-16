@@ -1,5 +1,6 @@
 ---
 title: "Team"
+description: "Research team behind the GENTRED project on gentrification and educational inequalities."
 format: 
   html:
     css: styles.css
