@@ -28,6 +28,8 @@ website:
         text: Team
       - href: outputs.qmd
         text: Outputs
+      - href: outreach.qmd
+        text: Outreach
       - href: seminar.qmd
         text: International seminar
   page-footer:

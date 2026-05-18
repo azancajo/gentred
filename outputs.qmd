@@ -20,6 +20,8 @@ toc: false
 ::: output-copy
 ### Una aproximació a la gentrificació escolar a Barcelona: mecanismes i implicacions per la política pública
 
+**Marcel Pagès, Andreu Termes i Xavier Bonal**
+
 A partir del cas de Barcelona, l’article analitza com processos com les migracions transnacionals i la turistificació influeixen en la gentrificació escolar. L’estudi identifica set mecanismes que expliquen aquest procés, vinculats a les estratègies escolars, els discursos pro-diversitat, l’homofília social i la reconfiguració identitària dels gentrificadors. Finalment, proposa recomanacions de política urbana i educativa per reduir els efectes negatius de la gentrificació escolar.
 
 [Download the document](files/Revista_Papers_68_online_ART_5.pdf){.output-button target="_blank"}
@@ -66,10 +68,18 @@ A partir del cas de Barcelona, l’article analitza com processos com les migrac
 
 .output-copy h3 {
   margin-top: 0;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.45rem;
   color: #4B9B8A;
   font-size: 1.1rem;
   line-height: 1.25;
+}
+
+.output-authors {
+  margin-bottom: 0.85rem;
+  color: #333;
+  font-size: 0.86rem;
+  font-weight: 700;
+  line-height: 1.4;
 }
 
 .output-copy p {
