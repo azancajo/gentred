@@ -1,38 +1,66 @@
 [
   {
-    "objectID": "about.html#research-objectives",
-    "href": "about.html#research-objectives",
-    "title": "About the project",
-    "section": "Research Objectives",
-    "text": "Research Objectives\nThe project has four main objectives:\n1. To analyse changes in educational supply and demand in urban areas that have undergone gentrification.\n2. To evaluate the impact of these processes on school segregation and inequalities among different student groups.\n3. To study school choice rationales and participation strategies used by families in schools located in neighbourhoods with varying levels of gentrification.\n4. To identify the logics of action of teaching staff and school responses in the most “gentrified” schools."
-  },
-  {
-    "objectID": "about.html#methodology",
-    "href": "about.html#methodology",
-    "title": "About the project",
-    "section": "Methodology",
-    "text": "Methodology\nThis is an interdisciplinary proposal, both analytically and methodologically, combining fields such as urban studies, sociology of education, and geography. The research uses a wide range of quantitative and qualitative techniques of various social science disciplines.\nThe study uses different territorial units of analysis—from the city as a whole to educational catchment areas and neighbourhoods. The quantitative phase includes the following methods and techniques:\n\nStatistical analysis of student registers and school pre-registration databases provided by the Consorci d’Educació de Barcelona (CEB) -the Local Education Authority-, enabling comparison of sociodemographic and educational characteristics of both school supply and demand.\nSocio-spatial analysis techniques using GIS (Geographic Information Systems) to estimate retention and exit levels of different student profiles in various neighbourhoods, as well as changes in the geographic attraction capacity of school offerings.\nQuasi-experimental evaluation methods, which help estimate changes in impact dimensions caused by gentrification.\n\nIn the qualitative phase, GENTRED adopts an “embedded single case study” strategy—that is, the study of a single case through multiple units of analysis: families and school actors in neighbourhoods with divergent gentrification processes. This approach is combined with “critical case sampling” to help capture the underlying mechanisms of the phenomenon. The qualitative instruments include:\n\nDocument analysis: thematic analysis of school projects and internal documents, as well as content analysis of websites, promotion strategies, and open school days sessions.\nInterviews: semi-structured interviews with headteachers, teachers, and families at selected schools.\nParticipant observation during open days events, meetings between teachers and families, and other school life spaces."
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Research team\n\n\n\n\nXavier Bonal (PI)\n\n          \n\n\n\n\nAdrián Zancajo (Co-PI)\n\n          \n\n\n\n\n\n\n\n\n\n\nCarlos Bueno\n\n\n\n\n\n\nGerard Ferrer\n\n      \n\n\n\n\nNur Garcia-Borés\n\n\n\n\n\n\nSheila González\n\n          \n\n\n\n\nAntonina Levantino\n\n        \n\n\n\n\nPablo Neut\n\n    \n\n\n\n\nMarcel Pagès\n\n         \n\n\n\n\nAndreu Termes"
-  },
-  {
-    "objectID": "outputs.html",
-    "href": "outputs.html",
-    "title": "Outputs",
-    "section": "",
-    "text": "Publications\n\n\n\n\n\n\nUna aproximació a la gentrificació escolar a Barcelona: mecanismes i implicacions per la política pública\nMarcel Pagès, Andreu Termes i Xavier Bonal\nA partir del cas de Barcelona, l’article analitza com processos com les migracions transnacionals i la turistificació influeixen en la gentrificació escolar. L’estudi identifica set mecanismes que expliquen aquest procés, vinculats a les estratègies escolars, els discursos pro-diversitat, l’homofília social i la reconfiguració identitària dels gentrificadors. Finalment, proposa recomanacions de política urbana i educativa per reduir els efectes negatius de la gentrificació escolar.\nDownload the document"
-  },
-  {
     "objectID": "outreach.html",
     "href": "outreach.html",
     "title": "Outreach",
     "section": "",
-    "text": "Media\n\n\n\n\n\n\nLa gentrificació escolar a Barcelona, o quan les noves dinàmiques urbanes impacten al centre\nBernat Ferrer a Educa Barcelona es fa ressò de la presentació de Papers 68 i de l’anàlisi de Xavier Bonal, Andreu Termes i Marcel Pagès sobre la gentrificació escolar a Barcelona. La peça explica com el canvi urbà, les migracions transnacionals i la turistificació configuren les dinàmiques escolars, i per què les polítiques urbanes i educatives s’han de planificar de manera conjunta."
+    "text": "Media\n\n\n\n\n\n\nSchool gentrification in Barcelona, or when new urban dynamics reach the school\nBernat Ferrer analyses how urban change, transnational migration, and touristification shape school dynamics in Barcelona. The article argues that urban and education policies need to be planned together.\n\n\n\n\n\n\n\nA study warns that gentrification in some Barcelona neighbourhoods also affects schools\nThis report explains how urban gentrification transforms the social composition of students, school dynamics, and schools’ pedagogical orientation. It highlights the risks this phenomenon may pose for educational equity.\n\n\n\n\n\n\n\nA study warns of the effects of gentrification on schools in Barcelona\nThis piece presents the effects of gentrification on school communities, family profiles, and schools’ reputations. It emphasises the need for education policies adapted to the diversity of each neighbourhood.\n\n\n\n\n\n\n\nBeyond brunch and specialty coffee, gentrification reaches schools\nThe article explores the impacts of gentrification on schools, with particular attention to the symbolic displacement that can occur in transforming neighbourhoods. It underlines the importance of incorporating the educational dimension into urban policies.\n\n\n\n\n\nInterviews\n\n\n\n\n\n\nL’Entrellat - Xavier Bonal: “School gentrification in Barcelona’s classrooms is the new normal”\nXavier Bonal speaks on Ràdio 4’s L’Entrellat about school gentrification in Barcelona and its links with recent urban transformations. The interview discusses how the arrival of families with high economic and cultural capital can transform public schools."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Effects of gentrification on educational inequalities",
+    "section": "",
+    "text": "Research project funded by"
+  },
+  {
+    "objectID": "ca/outreach.html",
+    "href": "ca/outreach.html",
+    "title": "Difusió",
+    "section": "",
+    "text": "Mitjans\n\n\n\n\n\n\nLa gentrificació escolar a Barcelona, o quan les noves dinàmiques urbanes impacten al centre\nBernat Ferrer a Educa Barcelona es fa ressò de la presentació de Papers 68 i de l’anàlisi de Xavier Bonal, Andreu Termes i Marcel Pagès sobre la gentrificació escolar a Barcelona. La peça explica com el canvi urbà, les migracions transnacionals i la turistificació configuren les dinàmiques escolars, i per què les polítiques urbanes i educatives s’han de planificar de manera conjunta.\n\n\n\n\n\n\n\nUn estudi alerta que la gentrificació d’alguns barris de Barcelona també afecta les escoles\nACN a Diari Públic recull l’estudi de Marcel Pagès, Andreu Termes i Xavier Bonal, elaborat en el marc del projecte GENTRED, sobre com la gentrificació urbana transforma la composició social de l’alumnat, les dinàmiques escolars i la línia pedagògica dels centres. La notícia destaca els mecanismes de la gentrificació escolar i els riscos que pot comportar per a l’equitat educativa.\n\n\n\n\n\n\n\nUn estudi alerta dels efectes de la gentrificació a les escoles de Barcelona\nMaria Solans i Sandra García Prat a betevé expliquen l’estudi elaborat per la Universitat de Barcelona, la UAB i l’Institut Metròpoli en el marc del projecte GENTRED. La peça destaca com la gentrificació pot transformar la comunitat educativa, modificar el perfil de les famílies i la reputació dels centres, i per què calen polítiques educatives adaptades a la diversitat de cada barri.\n\n\n\n\n\n\n\nMés enllà del ‘brunch’ i el cafè d’especialitat, la gentrificació arriba a les escoles\nJudit Pellicer a RAC1 explica els impactes de la gentrificació escolar a partir de l’informe Una aproximació a la gentrificació escolar a Barcelona: mecanismes i implicacions per a la política pública. La peça recull l’anàlisi de Xavier Bonal sobre el desplaçament simbòlic que pot produir-se als centres i destaca la necessitat d’incorporar la dimensió educativa dins les polítiques urbanes.\n\n\n\n\n\nEntrevistes\n\n\n\n\n\n\nL’Entrellat - Xavier Bonal: “La gentrificació escolar a les aules de Barcelona és la nova normalitat”\nXavier Bonal conversa a L’Entrellat de Ràdio 4 sobre la gentrificació escolar a Barcelona i l’estudi de la UAB que vincula les transformacions urbanes amb la segregació educativa. L’entrevista aborda com l’arribada de famílies amb alt capital econòmic i cultural pot transformar les escoles públiques, en un episodi de 23 minuts emès el 26 de maig de 2026."
+  },
+  {
+    "objectID": "ca/index.html",
+    "href": "ca/index.html",
+    "title": "Efectes de la gentrificació en les desigualtats educatives",
+    "section": "",
+    "text": "Projecte de recerca finançat per"
+  },
+  {
+    "objectID": "ca/seminar.html",
+    "href": "ca/seminar.html",
+    "title": "Seminari internacional",
+    "section": "",
+    "text": "Barcelona\n10 - 11 de juny de 2025"
+  },
+  {
+    "objectID": "ca/seminar.html#justificació",
+    "href": "ca/seminar.html#justificació",
+    "title": "Seminari internacional",
+    "section": "Justificació",
+    "text": "Justificació\nLa transformació urbana i la reconfiguració socioespacial són forces clau que modelen les societats contemporànies. La globalització ha aprofundit la fragmentació i la polarització social, impulsant desigualtats i transformant els paisatges urbans. Des de mitjan anys setanta, l’augment de la desigualtat social i l’afebliment de la capacitat dels governs nacionals i locals per contrarestar-la han intensificat la segregació residencial i les desigualtats econòmiques. La naturalesa de la segregació i d’altres desigualtats espacials varia entre ciutats globals, condicionada per les històries urbanes, la reestructuració econòmica, els canvis en l’estat del benestar i les polítiques d’habitatge.\nEn els darrers anys, aquestes tendències s’han accelerat arran de canvis demogràfics significatius. Els fluxos migratoris i les polítiques urbanes han alterat la composició social dels barris i de les escoles, mentre que la turistificació i la gentrificació han transformat els paisatges urbans i han influït en les desigualtats educatives. Al mateix temps, les polítiques urbanes i educatives han adoptat cada vegada més enfocaments neoliberals, visibles en la liberalització del mercat de l’habitatge i en l’expansió de les polítiques d’elecció escolar.\nLa interacció entre les transformacions urbanes i les polítiques educatives és central per entendre la configuració de les desigualtats socioespacials en educació. La reestructuració espacial influeix en les jerarquies escolars, reconfigura els mercats educatius locals i reforça els vincles entre segregació residencial i segregació escolar. Aquestes dinàmiques s’entrecreuen amb les polítiques d’admissió escolar, la diversificació de l’oferta educativa i la redefinició de les zones escolars, sovint amb efectes incerts sobre les desigualtats socioespacials. Les interaccions complexes entre els mercats d’habitatge, les polítiques educatives i les estratègies familiars generen noves formes de desigualtat educativa que continuen sent insuficientment explorades. Aquest seminari reuneix investigadors i investigadores de diversos contextos urbans i disciplines per examinar com el canvi urbà, les desigualtats espacials i les polítiques educatives s’entrecreuen en la configuració de les desigualtats educatives. Els temes principals inclouen:\n\nL’impacte de les transformacions urbanes, les migracions i els canvis demogràfics en la segregació escolar.\nEl paper de les polítiques d’elecció escolar, les regulacions i processos d’admissió, i les estratègies parentals en la configuració de les desigualtats educatives.\nEls patrons d’elecció escolar i de mobilitat de l’alumnat en entorns urbans.\nLes interseccions entre polítiques d’habitatge, renovació urbana i accés educatiu.\nEls efectes de la gentrificació en la composició escolar i els resultats educatius. Respostes polítiques i intervencions per reduir la segregació escolar i promoure l’equitat.\n\n\nCoordinat per\nXavier Bonal (UAB), Sheila González (UB), Adrián Zancajo (UAB)"
+  },
+  {
+    "objectID": "ca/seminar.html#programa",
+    "href": "ca/seminar.html#programa",
+    "title": "Seminari internacional",
+    "section": "Programa",
+    "text": "Programa\n\n10 de juny — Aula Font i Rius (edifici històric)\n\n\n09:00 Benvinguda i introducció\n\n\n09:30 Sessió 1. Canvi urbà i demogràfic a la ciutat global\nPresideix: Xavier Bonal\n\nCanvi de barris i transformacions poblacionals a les ciutats del sud d’Europa: processos i tendències clau\nAntonio López Gay\nLes mutacions de la segregació residencial: més enllà de la gentrificació\nDaniel Sorando\nEspecialització residencial i desigualtat entre municipis: tendències a la regió metropolitana de Barcelona\nIsmael Blanco\n\n\n\n11:00 Pausa cafè\n\n\n11:30 Sessió 2. Nous patrons de segregació escolar en entorns urbans\nPresideix: Isabel Ramos Lobato\n\nSegregació interseccional: conceptualització i aplicació al cas de l’escolarització al Brasil\nRob J. Gruijters\nTransicions educatives situades: com la composició de l’escola local afecta les trajectòries educatives\nCostanzo Ranci & Francisco Gabriel Ferraioli\nConfiguració de la segregació escolar i de classe: el paper de les pràctiques institucionals i quotidianes dels centres\nMarta Cordini, Carlotta Casiagli, Giulia Marroccoli & Berenice Scandone\n\n\n\n13:00 Dinar\n\n\n14:30 Sessió 3. Elecció escolar en entorns urbans canviants\nPresideix: Quentin Ramond\n\nElecció escolar i accés a escoles efectives\nEllen Greaves\nLes famílies gentrificadores fugen de les escoles locals? Un estudi de cas de Barcelona\nXavier Bonal & Sheila González\nElecció escolar i desigualtats espacials: un experiment d’enquesta sobre les preferències parentals per escoles de primària en diferents barris\nHåkan Forsberg & Andreas Alm Fjellborg\n\n\n\n16:00 Pausa cafè\n\n\n16:30 Sessió 4. Respostes dels actors a les transformacions urbanes i demogràfiques\nPresideix: Sheila González\n\nParticipació de persones immigrades en barris de nova arribada: les escoles com a espais de trobada?\nIsabel Ramos Lobato\nSegregació del professorat en el marc de la provisió del mercat laboral, la segregació escolar i la segregació residencial\nSonja Kosunen\nExperiències emocionals i estigma entre beneficiaris de les polítiques de desegregació de Barcelona\nAndrea Jover, Martí Manzano, Berta Llos & Andreu Termes\n\n\n\n20:00 Sopar social — Restaurant Pomarada\n\n\n11 de juny — Aula 30 (edifici nou)\n\n\n09:30 Sessió 5. Efectes de barri i segregació escolar\nPresideix: Adrián Zancajo\n\nEl paper dels barris de l’entorn de les escoles en l’elecció escolar i la segregació escolar\nQuentin Ramond\nReputació del barri, elecció escolar i segregació escolar\nEduardo Tapia\nGentrificació i canvi escolar: explorant els dilemes de la diversitat en l’espai educatiu local\nMarcel Pagès, Pablo Neut & Nur Garcia-Borés\n\n\n\n11:00 Pausa cafè\n\n\n11:30 Sessió 6. Polítiques educatives per abordar la segregació escolar\nPresideix: Marta Cordini\n\nLa zonificació escolar ajuda a reduir la segregació escolar? Lliçons de França\nMarco Oberti & Lise Lécuyer\nImpactes i efectes de les polítiques de desegregació a Barcelona\nAdrián Zancajo, Sheila González & Edgar Quilabert\nQuan regular la selectivitat escolar no és suficient: límits del sistema centralitzat d’admissió escolar xilè per reduir la desigualtat\nAlejandro Carrasco"
+  },
+  {
+    "objectID": "ca/seminar.html#lloc",
+    "href": "ca/seminar.html#lloc",
+    "title": "Seminari internacional",
+    "section": "Lloc",
+    "text": "Lloc\nFacultat de Dret (Universitat de Barcelona) Avinguda Diagonal 684, 08034 Barcelona\n\n\nAules del seminari\n10 de juny: l’Aula Font i Rius es troba a la primera planta de l’edifici principal (edifici històric) de la Facultat de Dret.\n11 de juny: l’Aula 30 es troba a la planta baixa de l’edifici nou."
+  },
+  {
+    "objectID": "ca/seminar.html#llista-de-participants",
+    "href": "ca/seminar.html#llista-de-participants",
+    "title": "Seminari internacional",
+    "section": "Llista de participants",
+    "text": "Llista de participants\n\n\n\nNom\nInstitució\n\n\n\n\nIsmael Blanco\nIGOP-UAB\n\n\nXavier Bonal\nGEPS-UAB\n\n\nAlejandro Carrasco\nUniversidad Católica de Chile\n\n\nMarta Cordini\nPolitecnico di Milano\n\n\nSheila González Motos\nUniversitat de Barcelona\n\n\nEllen Greaves\nUniversity of Exeter\n\n\nRob J. Gruijters\nUniversity of Bristol\n\n\nFrancisco Ferraioli\nPolitecnico di Milano\n\n\nAndreas Alm Fjellborg\nUppsala University\n\n\nHåkan Forsberg\nUppsala University\n\n\nNur Garcia-Borés\nGEPS-UAB\n\n\nAndrea Jover\nGEPS-UAB\n\n\nSonja Kosunen\nUniversity of Eastern Finland\n\n\nLise Lécuyer\nSciences Po\n\n\nAntonio López-Gay\nCED-UAB\n\n\nBerta Llos\nGEPS-UAB\n\n\nMartí Manzano\nGEPS-UAB\n\n\nGiulia Marroccoli\nPolitecnico di Milano\n\n\nPablo Neut\nGEPS-UAB\n\n\nMarco Oberti\nScience Po\n\n\nMarcel Pagès\nUniversitat de Barcelona\n\n\nEdgar Quilabert\nGEPS-UAB\n\n\nQuentin Ramond\nMayor University, Chile\n\n\nIsabel Ramos Lobato\nILS-Dortmund\n\n\nCostanzo Ranci\nPolitecnico di Milano\n\n\nBerenice Scandone\nPolitecnico di Milano\n\n\nDaniel Sorando\nUniversidad de Zaragoza\n\n\nEduardo Tapia\nInstitute of Analytical Sociology\n\n\nAndreu Termes\nGEPS-UAB\n\n\nAdrián Zancajo\nGEPS-UAB\n\n\n\nAquest seminari està organitzat pel Grup Interdisciplinari de Polítiques Educatives (GIPE), amb el suport de la Generalitat de Catalunya (SGR-Cat 2021, Ref. 00943), i forma part del projecte The Effects of Gentrification on Educational Inequalities (GENTRED), finançat pel Ministeri de Ciència i Tecnologia d’Espanya (PID2022-137183NB-I00)."
   },
   {
     "objectID": "seminar.html",
@@ -70,10 +98,59 @@
     "text": "List of participants\n\n\n\nName\nInstitution\n\n\n\n\nIsmael Blanco\nIGOP-UAB\n\n\nXavier Bonal\nGEPS-UAB\n\n\nAlejandro Carrasco\nUniversidad Católica de Chile\n\n\nMarta Cordini\nPolitecnico di Milano\n\n\nSheila González Motos\nUniversitat de Barcelona\n\n\nEllen Greaves\nUniversity of Exeter\n\n\nRob J. Gruijters\nUniversity of Bristol\n\n\nFrancisco Ferraioli\nPolitecnico di Milano\n\n\nAndreas Alm Fjellborg\nUppsala University\n\n\nHåkan Forsberg\nUppsala University\n\n\nNur Garcia-Borés\nGEPS-UAB\n\n\nAndrea Jover\nGEPS-UAB\n\n\nSonja Kosunen\nUniversity of Eastern Finland\n\n\nLise Lécuyer\nSciences Po\n\n\nAntonio López-Gay\nCED-UAB\n\n\nBerta Llos\nGEPS-UAB\n\n\nMartí Manzano\nGEPS-UAB\n\n\nGiulia Marroccoli\nPolitecnico di Milano\n\n\nPablo Neut\nGEPS-UAB\n\n\nMarco Oberti\nScience Po\n\n\nMarcel Pagès\nUniversitat de Barcelona\n\n\nEdgar Quilabert\nGEPS-UAB\n\n\nQuentin Ramond\nMayor University, Chile\n\n\nIsabel Ramos Lobato\nILS-Dortmund\n\n\nCostanzo Ranci\nPolitecnico di Milano\n\n\nBerenice Scandone\nPolitecnico di Milano\n\n\nDaniel Sorando\nUniversidad de Zaragoza\n\n\nEduardo Tapia\nInstitute of Analytical Sociology\n\n\nAndreu Termes\nGEPS-UAB\n\n\nAdrián Zancajo\nGEPS-UAB\n\n\n\nThis seminar is organized by the Interdisciplinary Group on Education Policies (GIPE), with support from the Government of Catalonia (SGR-Cat 2021, Ref. 00943), and is part of the project The Effects of Gentrification on Educational Inequalities (GENTRED), funded by the Spanish Ministry of Science and Technology (PID2022-137183NB-I00)."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Effects of gentrification on educational inequalities",
+    "objectID": "outputs.html",
+    "href": "outputs.html",
+    "title": "Outputs",
     "section": "",
-    "text": "Research project funded by"
+    "text": "Publications\n\n\n\n\n\n\nUna aproximació a la gentrificació escolar a Barcelona: mecanismes i implicacions per la política pública\nMarcel Pagès, Andreu Termes i Xavier Bonal\nBased on the case of Barcelona, the article analyses how processes such as transnational migration and touristification influence school gentrification. The study identifies seven mechanisms that explain this process, linked to school strategies, pro-diversity discourses, social homophily, and the identity reconfiguration of gentrifiers. It concludes with urban and education policy recommendations to reduce the negative effects of school gentrification.\nDownload the document"
+  },
+  {
+    "objectID": "ca/outputs.html",
+    "href": "ca/outputs.html",
+    "title": "Resultats",
+    "section": "",
+    "text": "Publicacions\n\n\n\n\n\n\nUna aproximació a la gentrificació escolar a Barcelona: mecanismes i implicacions per la política pública\nMarcel Pagès, Andreu Termes i Xavier Bonal\nA partir del cas de Barcelona, l’article analitza com processos com les migracions transnacionals i la turistificació influeixen en la gentrificació escolar. L’estudi identifica set mecanismes que expliquen aquest procés, vinculats a les estratègies escolars, els discursos pro-diversitat, l’homofília social i la reconfiguració identitària dels gentrificadors. Finalment, proposa recomanacions de política urbana i educativa per reduir els efectes negatius de la gentrificació escolar.\nDescarrega el document"
+  },
+  {
+    "objectID": "ca/team.html",
+    "href": "ca/team.html",
+    "title": "Equip",
+    "section": "",
+    "text": "Equip de recerca\n\n\n\n\nXavier Bonal (IP)\n\n          \n\n\n\n\nAdrián Zancajo (Co-IP)\n\n          \n\n\n\n\n\n\n\n\n\n\nCarlos Bueno\n\n\n\n\n\n\nGerard Ferrer\n\n      \n\n\n\n\nNur Garcia-Borés\n\n\n\n\n\n\nSheila González\n\n          \n\n\n\n\nAntonina Levantino\n\n        \n\n\n\n\nPablo Neut\n\n    \n\n\n\n\nMarcel Pagès\n\n         \n\n\n\n\nAndreu Termes"
+  },
+  {
+    "objectID": "ca/about.html#objectius-de-recerca",
+    "href": "ca/about.html#objectius-de-recerca",
+    "title": "Sobre el projecte",
+    "section": "Objectius de recerca",
+    "text": "Objectius de recerca\nEl projecte té quatre objectius principals:\n1. Analitzar els canvis en l’oferta i la demanda educativa en àrees urbanes que han experimentat processos de gentrificació.\n2. Avaluar l’impacte d’aquests processos en la segregació escolar i en les desigualtats entre diferents grups d’alumnat.\n3. Estudiar les racionalitats d’elecció escolar i les estratègies de participació de les famílies en escoles situades en barris amb diferents nivells de gentrificació.\n4. Identificar les lògiques d’actuació del professorat i les respostes escolars en els centres més “gentrificats”."
+  },
+  {
+    "objectID": "ca/about.html#metodologia",
+    "href": "ca/about.html#metodologia",
+    "title": "Sobre el projecte",
+    "section": "Metodologia",
+    "text": "Metodologia\nEs tracta d’una proposta interdisciplinària, tant analíticament com metodològicament, que combina camps com els estudis urbans, la sociologia de l’educació i la geografia. La recerca utilitza una àmplia gamma de tècniques quantitatives i qualitatives pròpies de diverses disciplines de les ciències socials.\nL’estudi utilitza diferents unitats territorials d’anàlisi, des de la ciutat en el seu conjunt fins a les zones educatives i els barris. La fase quantitativa inclou els mètodes i tècniques següents:\n\nAnàlisi estadística dels registres d’alumnat i de les bases de dades de preinscripció escolar proporcionades pel Consorci d’Educació de Barcelona (CEB), que permet comparar les característiques sociodemogràfiques i educatives tant de l’oferta com de la demanda escolar.\nTècniques d’anàlisi socioespacial amb SIG (Sistemes d’Informació Geogràfica) per estimar els nivells de retenció i sortida de diferents perfils d’alumnat en diversos barris, així com els canvis en la capacitat d’atracció geogràfica de l’oferta escolar.\nMètodes d’avaluació quasi experimental, que permeten estimar canvis en dimensions d’impacte atribuïbles a la gentrificació.\n\nEn la fase qualitativa, GENTRED adopta una estratègia d’“estudi de cas únic incrustat”, és a dir, l’estudi d’un sol cas a través de múltiples unitats d’anàlisi: famílies i actors escolars en barris amb processos de gentrificació divergents. Aquest enfocament es combina amb un “mostreig de casos crítics” per captar millor els mecanismes subjacents del fenomen. Els instruments qualitatius inclouen:\n\nAnàlisi documental: anàlisi temàtica dels projectes educatius i documents interns dels centres, així com anàlisi de contingut de pàgines web, estratègies de promoció i sessions de portes obertes.\nEntrevistes: entrevistes semiestructurades amb equips directius, professorat i famílies de les escoles seleccionades.\nObservació participant durant jornades de portes obertes, reunions entre docents i famílies, i altres espais de la vida escolar."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Research team\n\n\n\n\nXavier Bonal (PI)\n\n          \n\n\n\n\nAdrián Zancajo (Co-PI)\n\n          \n\n\n\n\n\n\n\n\n\n\nCarlos Bueno\n\n\n\n\n\n\nGerard Ferrer\n\n      \n\n\n\n\nNur Garcia-Borés\n\n\n\n\n\n\nSheila González\n\n          \n\n\n\n\nAntonina Levantino\n\n        \n\n\n\n\nPablo Neut\n\n    \n\n\n\n\nMarcel Pagès\n\n         \n\n\n\n\nAndreu Termes"
+  },
+  {
+    "objectID": "about.html#research-objectives",
+    "href": "about.html#research-objectives",
+    "title": "About the project",
+    "section": "Research Objectives",
+    "text": "Research Objectives\nThe project has four main objectives:\n1. To analyse changes in educational supply and demand in urban areas that have undergone gentrification.\n2. To evaluate the impact of these processes on school segregation and inequalities among different student groups.\n3. To study school choice rationales and participation strategies used by families in schools located in neighbourhoods with varying levels of gentrification.\n4. To identify the logics of action of teaching staff and school responses in the most “gentrified” schools."
+  },
+  {
+    "objectID": "about.html#methodology",
+    "href": "about.html#methodology",
+    "title": "About the project",
+    "section": "Methodology",
+    "text": "Methodology\nThis is an interdisciplinary proposal, both analytically and methodologically, combining fields such as urban studies, sociology of education, and geography. The research uses a wide range of quantitative and qualitative techniques of various social science disciplines.\nThe study uses different territorial units of analysis—from the city as a whole to educational catchment areas and neighbourhoods. The quantitative phase includes the following methods and techniques:\n\nStatistical analysis of student registers and school pre-registration databases provided by the Consorci d’Educació de Barcelona (CEB) -the Local Education Authority-, enabling comparison of sociodemographic and educational characteristics of both school supply and demand.\nSocio-spatial analysis techniques using GIS (Geographic Information Systems) to estimate retention and exit levels of different student profiles in various neighbourhoods, as well as changes in the geographic attraction capacity of school offerings.\nQuasi-experimental evaluation methods, which help estimate changes in impact dimensions caused by gentrification.\n\nIn the qualitative phase, GENTRED adopts an “embedded single case study” strategy—that is, the study of a single case through multiple units of analysis: families and school actors in neighbourhoods with divergent gentrification processes. This approach is combined with “critical case sampling” to help capture the underlying mechanisms of the phenomenon. The qualitative instruments include:\n\nDocument analysis: thematic analysis of school projects and internal documents, as well as content analysis of websites, promotion strategies, and open school days sessions.\nInterviews: semi-structured interviews with headteachers, teachers, and families at selected schools.\nParticipant observation during open days events, meetings between teachers and families, and other school life spaces."
   }
 ]

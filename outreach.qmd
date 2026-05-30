@@ -11,16 +11,68 @@ toc: false
 
 # Media
 
-:::::: outreach-grid
+::::::::::::::: outreach-grid
 ::::: outreach-card
 ::: outreach-image-frame
 [<img src="images/outreach-educa-barcelona-gentrificacio-escolar-screenshot.png" alt="Screenshot of the Educa Barcelona article" class="outreach-image"/>](https://educa.barcelona/2026/05/15/la-gentrificacio-escolar-a-barcelona-o-quan-les-noves-dinamiques-urbanes-impacten-al-centre/)
 :::
 
 ::: outreach-copy
-### [**La gentrificació escolar a Barcelona, o quan les noves dinàmiques urbanes impacten al centre**](https://educa.barcelona/2026/05/15/la-gentrificacio-escolar-a-barcelona-o-quan-les-noves-dinamiques-urbanes-impacten-al-centre/){target="_blank"}
+### [**School gentrification in Barcelona, or when new urban dynamics reach the school**](https://educa.barcelona/2026/05/15/la-gentrificacio-escolar-a-barcelona-o-quan-les-noves-dinamiques-urbanes-impacten-al-centre/){target="_blank"}
 
-Bernat Ferrer a Educa Barcelona es fa ressò de la presentació de Papers 68 i de l’anàlisi de Xavier Bonal, Andreu Termes i Marcel Pagès sobre la gentrificació escolar a Barcelona. La peça explica com el canvi urbà, les migracions transnacionals i la turistificació configuren les dinàmiques escolars, i per què les polítiques urbanes i educatives s’han de planificar de manera conjunta.
+Bernat Ferrer analyses how urban change, transnational migration, and touristification shape school dynamics in Barcelona. The article argues that urban and education policies need to be planned together.
+:::
+:::::
+
+::::: outreach-card
+::: outreach-image-frame
+[<img src="images/outreach-diaripublic-gentrificacio-escoles.png" alt="Backpacks hanging in a school in Barcelona" class="outreach-image"/>](https://www.diaripublic.cat/societat/estudi-alerta-gentrificacio-alguns-barris-barcelona-tambe-afecta-escoles.html)
+:::
+
+::: outreach-copy
+### [**A study warns that gentrification in some Barcelona neighbourhoods also affects schools**](https://www.diaripublic.cat/societat/estudi-alerta-gentrificacio-alguns-barris-barcelona-tambe-afecta-escoles.html){target="_blank"}
+
+This report explains how urban gentrification transforms the social composition of students, school dynamics, and schools’ pedagogical orientation. It highlights the risks this phenomenon may pose for educational equity.
+:::
+:::::
+
+::::: outreach-card
+::: outreach-image-frame
+[<img src="images/outreach-beteve-gentrificacio-escoles.png" alt="Study on school gentrification" class="outreach-image"/>](https://beteve.cat/societat/estudi-alerta-gentrificacio-escoles/)
+:::
+
+::: outreach-copy
+### [**A study warns of the effects of gentrification on schools in Barcelona**](https://beteve.cat/societat/estudi-alerta-gentrificacio-escoles/){target="_blank"}
+
+This piece presents the effects of gentrification on school communities, family profiles, and schools’ reputations. It emphasises the need for education policies adapted to the diversity of each neighbourhood.
+:::
+:::::
+
+::::: outreach-card
+::: outreach-image-frame
+[<img src="images/outreach-rac1-gentrificacio-escolar.png" alt="Students working in a classroom" class="outreach-image"/>](https://www.rac1.cat/societat/20260529/348793/brunch-cafe-especialitat-gentrificacio-aula-no-fisicament-desplacament-simbolic.html)
+:::
+
+::: outreach-copy
+### [**Beyond brunch and specialty coffee, gentrification reaches schools**](https://www.rac1.cat/societat/20260529/348793/brunch-cafe-especialitat-gentrificacio-aula-no-fisicament-desplacament-simbolic.html){target="_blank"}
+
+The article explores the impacts of gentrification on schools, with particular attention to the symbolic displacement that can occur in transforming neighbourhoods. It underlines the importance of incorporating the educational dimension into urban policies.
+:::
+:::::
+:::::::::::::::
+
+# Interviews
+
+:::::: outreach-grid
+::::: outreach-card
+::: outreach-image-frame
+[<img src="images/outreach-rtve-lentrellat-xavier-bonal.png" alt="L&apos;Entrellat, RTVE Play Radio" class="outreach-image"/>](https://www.rtve.es/play/audios/l-entrellat/lentrellat-xavier-bonal-gentrificacio-escolar-ales-aules-barcelona-nova-normalitat/17086865/)
+:::
+
+::: outreach-copy
+### [**L'Entrellat - Xavier Bonal: "School gentrification in Barcelona's classrooms is the new normal"**](https://www.rtve.es/play/audios/l-entrellat/lentrellat-xavier-bonal-gentrificacio-escolar-ales-aules-barcelona-nova-normalitat/17086865/){target="_blank"}
+
+Xavier Bonal speaks on Ràdio 4’s *L'Entrellat* about school gentrification in Barcelona and its links with recent urban transformations. The interview discusses how the arrival of families with high economic and cultural capital can transform public schools.
 :::
 :::::
 ::::::
@@ -36,19 +88,26 @@ Bernat Ferrer a Educa Barcelona es fa ressò de la presentació de Papers 68 i d
 
 .outreach-card {
   display: grid;
-  grid-template-columns: minmax(180px, 280px) 1fr;
+  grid-template-columns: 340px minmax(0, 1fr);
   gap: 1.75rem;
   align-items: start;
   min-width: 0;
 }
 
 .outreach-image-frame {
-  aspect-ratio: 9 / 8;
-  width: 100%;
+  width: 340px;
+  height: 272px;
+  box-sizing: border-box;
   overflow: hidden;
   border: 1px solid #4B9B8A;
-  background: rgba(75, 155, 138, 0.08);
+  background: #fff;
   box-shadow: 0 10px 28px rgba(18, 52, 86, 0.14);
+}
+
+.outreach-image-frame p {
+  width: 100%;
+  height: 100%;
+  margin: 0;
 }
 
 .outreach-image-frame a {
@@ -60,7 +119,8 @@ Bernat Ferrer a Educa Barcelona es fa ressò de la presentació de Papers 68 i d
 .outreach-image {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
   display: block;
   transition: transform 160ms ease;
 }
@@ -103,6 +163,12 @@ Bernat Ferrer a Educa Barcelona es fa ressò de la presentació de Papers 68 i d
     max-width: 420px;
     margin: 0 auto;
     gap: 1rem;
+  }
+
+  .outreach-image-frame {
+    aspect-ratio: 5 / 4;
+    width: 100%;
+    height: auto;
   }
 }
 </style>

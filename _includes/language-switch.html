@@ -1,0 +1,90 @@
+<style>
+.language-switch-item .nav-link {
+  border: 1px solid #4B9B8A;
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem !important;
+  margin-right: 0 !important;
+  font-size: 0.78rem !important;
+  line-height: 1.2;
+}
+
+.language-switch-item .nav-link:hover,
+.language-switch-item .nav-link:focus {
+  background: #4B9B8A;
+  color: #fff !important;
+  border-bottom: 1px solid #4B9B8A !important;
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const nav = document.querySelector(".navbar-nav");
+  if (!nav) return;
+
+  const pageMap = {
+    "index.html": "index",
+    "about.html": "about",
+    "team.html": "team",
+    "outputs.html": "outputs",
+    "outreach.html": "outreach",
+    "seminar.html": "seminar"
+  };
+
+  const labels = {
+    en: {
+      index: "Home",
+      about: "About",
+      team: "Team",
+      outputs: "Outputs",
+      outreach: "Outreach",
+      seminar: "International seminar"
+    },
+    ca: {
+      index: "Inici",
+      about: "Projecte",
+      team: "Equip",
+      outputs: "Resultats",
+      outreach: "Difusió",
+      seminar: "Seminari internacional"
+    }
+  };
+
+  const path = window.location.pathname;
+  const isCatalan = path.indexOf("/ca/") !== -1;
+  const file = path.endsWith("/") ? "index.html" : path.split("/").pop();
+  const current = pageMap[file] || "index";
+  const englishPrefix = isCatalan ? "../" : "./";
+  const catalanPrefix = isCatalan ? "./" : "./ca/";
+  const orderedPages = ["index", "about", "team", "outputs", "outreach", "seminar"];
+
+  nav.querySelectorAll(".nav-item").forEach(function (item, index) {
+    if (index >= orderedPages.length) return;
+    const page = orderedPages[index];
+    const link = item.querySelector("a.nav-link");
+    const text = item.querySelector(".menu-text");
+    if (!link || !text) return;
+
+    text.textContent = labels[isCatalan ? "ca" : "en"][page];
+    link.href = (isCatalan ? catalanPrefix : englishPrefix) + page + ".html";
+    if (page === "index") {
+      link.href = isCatalan ? catalanPrefix + "index.html" : englishPrefix + "index.html";
+    }
+    link.classList.toggle("active", page === current);
+    if (page === current) {
+      link.setAttribute("aria-current", "page");
+    } else {
+      link.removeAttribute("aria-current");
+    }
+  });
+
+  const switchItem = document.createElement("li");
+  switchItem.className = "nav-item language-switch-item";
+  const switchLink = document.createElement("a");
+  switchLink.className = "nav-link";
+  switchLink.href = isCatalan ? englishPrefix + current + ".html" : catalanPrefix + current + ".html";
+  switchLink.textContent = isCatalan ? "EN" : "CA";
+  switchLink.setAttribute("aria-label", isCatalan ? "View this page in English" : "Veure aquesta pàgina en català");
+  switchItem.appendChild(switchLink);
+  nav.appendChild(switchItem);
+});
+</script>

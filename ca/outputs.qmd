@@ -1,20 +1,21 @@
 ---
-title: "Outputs"
-description: "Publications and research outputs from the GENTRED project."
-image: "images/Foto_Paper_68.webp"
-image-alt: "Cover image for GENTRED research output"
+title: "Resultats"
+description: "Publicacions i resultats de recerca del projecte GENTRED."
+image: "../images/Foto_Paper_68.webp"
+image-alt: "Imatge de coberta d'un resultat de recerca de GENTRED"
+lang: ca
 format:
   html:
-    css: styles.css
+    css: ../styles.css
 toc: false
 ---
 
-# Publications
+# Publicacions
 
 :::::: outputs-grid
 ::::: output-card
 ::: output-cover-frame
-<img src="images/Foto_Paper_68.webp" class="output-cover"/>
+<img src="../images/Foto_Paper_68.webp" class="output-cover"/>
 :::
 
 ::: output-copy
@@ -22,9 +23,9 @@ toc: false
 
 **Marcel Pagès, Andreu Termes i Xavier Bonal**
 
-Based on the case of Barcelona, the article analyses how processes such as transnational migration and touristification influence school gentrification. The study identifies seven mechanisms that explain this process, linked to school strategies, pro-diversity discourses, social homophily, and the identity reconfiguration of gentrifiers. It concludes with urban and education policy recommendations to reduce the negative effects of school gentrification.
+A partir del cas de Barcelona, l’article analitza com processos com les migracions transnacionals i la turistificació influeixen en la gentrificació escolar. L’estudi identifica set mecanismes que expliquen aquest procés, vinculats a les estratègies escolars, els discursos pro-diversitat, l’homofília social i la reconfiguració identitària dels gentrificadors. Finalment, proposa recomanacions de política urbana i educativa per reduir els efectes negatius de la gentrificació escolar.
 
-[Download the document](files/Revista_Papers_68_online_ART_5.pdf){.output-button target="_blank"}
+[Descarrega el document](../files/Revista_Papers_68_online_ART_5.pdf){.output-button target="_blank"}
 :::
 :::::
 ::::::

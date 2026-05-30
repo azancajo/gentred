@@ -1,0 +1,55 @@
+---
+title: "Sobre el projecte"
+description: "Resum, objectius i metodologia de GENTRED, un estudi sobre gentrificació urbana i desigualtats educatives a Barcelona."
+image: "../images/LOGO_GENTRED.png"
+image-alt: "Logotip de Gentred"
+lang: ca
+format:
+  html:
+    toc: true
+    css: ../styles.css
+---
+
+# Resum del projecte
+
+# Gentrificació urbana i desigualtats educatives
+
+Entre els principals canvis socials del segle XXI destaquen els processos de transformació urbana i de configuració socioespacial. La globalització ha accelerat processos de fragmentació i polarització social, amb efectes especialment intensos en els entorns urbans. Les ciutats del segle XXI són els espais on es concentren amb més força les contradiccions de la globalització, entre el creixement i la desigualtat. Han esdevingut centres operatius d’unes relacions econòmiques cada vegada més interconnectades i són pràcticament l’única part visiblement localitzada d’una economia altament deslocalitzada, més virtual que física en la seva projecció. Globalització i polarització s’han produït simultàniament, fins i tot en ciutats de països amb sistemes de benestar sòlids. L’augment de la desigualtat social i les limitacions dels governs per fer-hi front han contribuït a agreujar la segregació residencial a les grans ciutats.
+
+L’increment de la desigualtat econòmica i de la segregació residencial a les ciutats globals ha coexistit amb processos de gentrificació urbana en diversos àmbits. La gentrificació fa referència al procés mitjançant el qual barris urbans socioeconòmicament desafavorits experimenten reinversió i transformació, sovint amb l’arribada de població de classe mitjana i mitjana-alta. Aquest procés acostuma a comportar increments en els costos de l’habitatge i dels serveis, i pot derivar en el desplaçament i la substitució dels residents existents. Les conseqüències socials de la transformació dels barris en termes de desigualtat econòmica, cohesió social i comunitària, i pautes de consum dels diferents grups socials són un àmbit d’interès acadèmic i polític creixent. Hi ha hagut un debat considerable sobre si els efectes de la gentrificació són positius o negatius pel que fa a les oportunitats socials, el desenvolupament urbà i la cohesió social. Tanmateix, el camp educatiu ha estat relativament poc estudiat, especialment a Espanya. Els estudis disponibles sobre les implicacions educatives de la gentrificació han mostrat que l’augment de l’heterogeneïtat social no condueix necessàriament a millores en els resultats acadèmics ni a una reducció de la segregació escolar. Al contrari, sovint identifiquen efectes adversos o no previstos en termes d’equitat educativa. En aquests barris, aquestes conseqüències semblen vinculades a l’activació d’estratègies socioespacials específiques dins dels mercats educatius per part d’aquests “nous residents”, que poden conduir a l’exclusió escolar, la “gentrificació escolar” i altres pràctiques orientades a la reproducció social d’aquests grups. Cal més recerca per comprendre l’impacte d’aquestes transformacions urbanes en les dinàmiques de desigualtat educativa.
+
+# El projecte de recerca GENTRED
+
+GENTRED és un projecte de recerca que té com a objectiu principal avaluar les conseqüències dels processos de gentrificació urbana sobre les desigualtats educatives. L’estudi se centra en la ciutat de Barcelona, un context urbà on la gentrificació ha adquirit una importància creixent en els darrers anys, i analitza els efectes de les transformacions produïdes des de principis de la dècada de 2010.
+
+## Objectius de recerca
+
+El projecte té quatre objectius principals:
+
+**1.** Analitzar els canvis en l’oferta i la demanda educativa en àrees urbanes que han experimentat processos de gentrificació.
+
+**2.** Avaluar l’impacte d’aquests processos en la segregació escolar i en les desigualtats entre diferents grups d’alumnat.
+
+**3.** Estudiar les racionalitats d’elecció escolar i les estratègies de participació de les famílies en escoles situades en barris amb diferents nivells de gentrificació.
+
+**4.** Identificar les lògiques d’actuació del professorat i les respostes escolars en els centres més “gentrificats”.
+
+## Metodologia
+
+Es tracta d’una proposta interdisciplinària, tant analíticament com metodològicament, que combina camps com els estudis urbans, la sociologia de l’educació i la geografia. La recerca utilitza una àmplia gamma de tècniques quantitatives i qualitatives pròpies de diverses disciplines de les ciències socials.
+
+L’estudi utilitza diferents unitats territorials d’anàlisi, des de la ciutat en el seu conjunt fins a les zones educatives i els barris. La fase quantitativa inclou els mètodes i tècniques següents:
+
+- **Anàlisi estadística** dels registres d’alumnat i de les bases de dades de preinscripció escolar proporcionades pel Consorci d’Educació de Barcelona (CEB), que permet comparar les característiques sociodemogràfiques i educatives tant de l’oferta com de la demanda escolar.
+
+- **Tècniques d’anàlisi socioespacial amb SIG (Sistemes d’Informació Geogràfica)** per estimar els nivells de retenció i sortida de diferents perfils d’alumnat en diversos barris, així com els canvis en la capacitat d’atracció geogràfica de l’oferta escolar.
+
+- **Mètodes d’avaluació quasi experimental**, que permeten estimar canvis en dimensions d’impacte atribuïbles a la gentrificació.
+
+En la fase qualitativa, GENTRED adopta una estratègia d’“estudi de cas únic incrustat”, és a dir, l’estudi d’un sol cas a través de múltiples unitats d’anàlisi: famílies i actors escolars en barris amb processos de gentrificació divergents. Aquest enfocament es combina amb un “mostreig de casos crítics” per captar millor els mecanismes subjacents del fenomen. Els instruments qualitatius inclouen:
+
+- **Anàlisi documental**: anàlisi temàtica dels projectes educatius i documents interns dels centres, així com anàlisi de contingut de pàgines web, estratègies de promoció i sessions de portes obertes.
+
+- **Entrevistes**: entrevistes semiestructurades amb equips directius, professorat i famílies de les escoles seleccionades.
+
+- **Observació participant** durant jornades de portes obertes, reunions entre docents i famílies, i altres espais de la vida escolar.
