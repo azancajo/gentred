@@ -27,6 +27,22 @@ Based on the case of Barcelona, the article analyses how processes such as trans
 [Download the document](files/Revista_Papers_68_online_ART_5.pdf){.output-button target="_blank"}
 :::
 :::::
+
+::::: output-card
+::: output-cover-frame
+<img src="images/cover_paper.png" class="output-cover"/>
+:::
+
+::: output-copy
+### Private schools, gentrification and escape circuits: the case of Barcelona
+
+**Sheila González Motos and Xavier Bonal**
+
+The article examines how gentrification reshapes private school demand in Barcelona. Using population register data from 2014 to 2023, it analyses families’ opt-out from local public schools. Findings show that private schooling functions as selective exit linked to “white flight”, varying by local context. In gentrifying neighbourhoods, primary-level opt-out is less pronounced, suggesting selective tolerance, while transitions to private secondary schooling remain less constrained.
+
+[Download the document](files/Private_schools_gentrification_and_escap.pdf){.output-button target="_blank"}
+:::
+:::::
 ::::::
 
 ```{=html}

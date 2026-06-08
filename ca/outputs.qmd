@@ -28,6 +28,22 @@ A partir del cas de Barcelona, l’article analitza com processos com les migrac
 [Descarrega el document](../files/Revista_Papers_68_online_ART_5.pdf){.output-button target="_blank"}
 :::
 :::::
+
+::::: output-card
+::: output-cover-frame
+<img src="../images/cover_paper.png" class="output-cover"/>
+:::
+
+::: output-copy
+### Private schools, gentrification and escape circuits: the case of Barcelona
+
+**Sheila González Motos i Xavier Bonal**
+
+L’article examina com la gentrificació transforma la demanda d’escola privada a Barcelona. A partir de dades del padró de població del període 2014-2023, analitza la renúncia de les famílies a les escoles públiques locals. Els resultats mostren que l’escolarització privada funciona com una sortida selectiva vinculada a la «fugida blanca», que varia segons el context local. Als barris en procés de gentrificació, la renúncia a l’escola pública és menys pronunciada a primària, fet que suggereix una tolerància selectiva, mentre que les transicions cap a l’escola privada a secundària continuen estant menys condicionades.
+
+[Descarrega el document](../files/Private_schools_gentrification_and_escap.pdf){.output-button target="_blank"}
+:::
+:::::
 ::::::
 
 ```{=html}
