@@ -33,49 +33,6 @@ Equip de recerca
 <p><a href="https://uab.academia.edu/AdrianZancajo" target=" blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net/profile/AdrianZancajo" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.nl/citations?hl=en&user=mJmENSwAAAAJ" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
 :::
 
-```{=html}
-<style>
-.grid-container-1 {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 30px;
-    justify-items: center;
-    align-items: center;
-    width: 100%;
-}
-
-.team-member {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 100%;
-}
-
-.team-member img {
-    border-radius: 50%;
-}
-
-.team-member h3 {
-    margin: 10px 0 5px 0;
-    text-align: center;
-}
-
-.team-member p {
-    margin: 0;
-    padding: 5px 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-p a {
-    margin: 0 5px;
-    text-align: center;
-}
-</style>
-```
 :::::
 
 ::: {style="height: 50px;"}
@@ -148,47 +105,4 @@ p a {
 <p><a href="https://uab.academia.edu/AndreuTermes" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons academia size=lg >}} </a>  <a href="https://www.researchgate.net" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons researchgate size=lg >}} </a>  <a href="https://scholar.google.com" target="_blank" style="text-decoration: none;"> {{< iconify simple-icons googlescholar size=lg >}} </a></p>
 :::
 
-```{=html}
-<style>
-.grid-container-2 {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
-    justify-items: center;
-    align-items: center;
-    width: 100%;
-}
-
-.team-member {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    width: 100%;
-}
-
-.team-member img {
-    border-radius: 50%;
-}
-
-.team-member h3 {
-    margin: 10px 0 5px 0;
-    text-align: center;
-}
-
-.team-member p {
-    margin: 0;
-    padding: 5px 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-p a {
-    margin: 0 5px;
-    text-align: center;
-}
-</style>
-```
 :::::::::::::

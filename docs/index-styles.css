@@ -1,117 +1,113 @@
-:root {
-  --primary-color: #4B9B8A;
-  --active-color: #E17A3C;
-  --navbar-height: 100px;
-  --navbar-bg: #ffffff;
-  --font-family-sans: 'Montserrat', sans-serif;
+/* ==========================================================================
+   GENTRED — home page (loaded after styles.css)
+   ========================================================================== */
+
+body {
+  background:
+    radial-gradient(60% 50% at 15% 10%, rgba(75, 155, 138, 0.10) 0%, rgba(75, 155, 138, 0) 70%),
+    radial-gradient(50% 45% at 90% 35%, rgba(225, 122, 60, 0.08) 0%, rgba(225, 122, 60, 0) 70%),
+    var(--surface);
+  background-attachment: fixed;
 }
 
-/* Navbar */
-.navbar {
-  height: var(--navbar-height);
-  background-color: var(--navbar-bg);
-}
-
-.navbar-brand {
-  margin: 0 auto;
-}
-
-.navbar-brand img {
-  max-height: 100%;
-  height: auto;
-}
-
-.navbar-nav {
+main.content {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+}
+
+/* Hero logo */
+main .quarto-figure {
+  width: 100%;
   margin: 0 auto;
 }
 
-.navbar-nav .nav-link {
-  color: var(--primary-color);
-  font-weight: bold;
-  font-family: var(--font-family-sans);
-  font-size: 18px;
-  margin-right: 40px;
-  text-decoration: none;
-  text-transform: uppercase;
-  animation: none;
-  opacity: 1;
-}
-
-.navbar-nav .nav-link:hover,
-.navbar-nav .nav-link:focus {
-  border-bottom: 2px solid var(--primary-color);
-}
-
-.navbar-nav .nav-link.active {
-  color: var(--active-color);
-}
-
-/* Hide page title */
-h1.title {
-  display: none;
-}
-
-/* Generic links */
-a {
-  color: var(--primary-color);
-  text-decoration: none;
-}
-
-a:hover,
-a:active {
-  color: var(--primary-color);
-}
-
-/* Animations */
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
-
-img.fade-in {
-  animation: fadeIn 800ms ease-out both;
+main .quarto-figure figure,
+main .quarto-figure p {
+  margin: 0;
 }
 
 .logo-animated {
-  animation: homeFade 900ms ease-out both;
+  max-width: 100%;
+  height: auto;
+  border-radius: 0 !important;
+  animation: homeRise 900ms var(--ease) both;
 }
 
-.home-partners,
-.home-funding,
-.index-page main > p {
-  animation: homeFade 700ms ease-out both;
-}
-
+/* Partner logos */
 .home-partners {
-  animation-delay: 120ms;
+  margin-top: 3rem;
+  padding: 1.5rem 2.5rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  width: min(640px, 100%);
+  animation: homeRise 700ms var(--ease) 150ms both;
 }
 
-.index-page main > p {
-  animation-delay: 200ms;
+.home-partners p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 0;
+  max-width: none;
+}
+
+.home-partners img,
+.home-funding img {
+  border-radius: 0 !important;
+  margin: 0 !important;
+  max-width: 100%;
+}
+
+/* "Research project funded by" label */
+main.content > p {
+  margin: 2.5rem 0 0.75rem;
+  max-width: none;
+  animation: homeRise 700ms var(--ease) 250ms both;
+}
+
+main.content > p strong {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
 .home-funding {
-  animation-delay: 280ms;
+  animation: homeRise 700ms var(--ease) 350ms both;
 }
 
-@keyframes homeFade {
+.home-funding p {
+  margin: 0;
+  max-width: none;
+}
+
+@keyframes homeRise {
   from {
     opacity: 0;
-    transform: translateY(10px) scale(0.99);
+    transform: translateY(14px);
   }
   to {
     opacity: 1;
-    transform: translateY(0) scale(1);
+    transform: none;
   }
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .logo-animated,
-  .home-partners,
-  .home-funding,
-  .index-page main > p {
-    animation: none;
+@media (max-width: 576px) {
+  main.content {
+    padding-top: 1.5rem;
+  }
+  .home-partners {
+    padding: 1.25rem 0.5rem;
+  }
+  .home-partners p {
+    gap: 1.5rem;
   }
 }
