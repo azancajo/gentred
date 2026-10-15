@@ -1,6 +1,21 @@
 project:
   type: website
   output-dir: docs
+  # Static files copied as-is into docs/ (otherwise a full render deletes them)
+  resources:
+    - CNAME
+    - .nojekyll
+    - ".well-known/**"
+    - LOJeGlh3N_MZ3ZYzAcEzjnKKyFot6calTCpDNrHmgk0
+    - google56031d6b00ce7db5.html
+    - footer.html
+    - test.html
+    - "seminar 2.html"
+    - team.css
+    - "files/**"
+    - "images/**"
+    - "seminar/**"
+    - "team_photos/**"
 
 website:
   title: "Gentred"
